@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Vehicle-Rental-System/static/css/main.244b8f58.css",
+    "main.js": "/Vehicle-Rental-System/static/js/main.5a02fb45.js",
+    "static/js/453.cc966341.chunk.js": "/Vehicle-Rental-System/static/js/453.cc966341.chunk.js",
+    "static/media/Logo_Gocars.png": "/Vehicle-Rental-System/static/media/Logo_Gocars.97098defb8011023f11d.png",
+    "static/media/machine-grey-background-volvo-wallpaper-preview (1).jpg": "/Vehicle-Rental-System/static/media/machine-grey-background-volvo-wallpaper-preview (1).a648cee0f4f8e0a6eb0d.jpg",
+    "index.html": "/Vehicle-Rental-System/index.html",
+    "main.244b8f58.css.map": "/Vehicle-Rental-System/static/css/main.244b8f58.css.map",
+    "main.5a02fb45.js.map": "/Vehicle-Rental-System/static/js/main.5a02fb45.js.map",
+    "453.cc966341.chunk.js.map": "/Vehicle-Rental-System/static/js/453.cc966341.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.244b8f58.css",
+    "static/js/main.5a02fb45.js"
+  ]
+}
